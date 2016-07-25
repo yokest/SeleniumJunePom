@@ -1,0 +1,9 @@
+.settings
+bin
+drivers
+reports
+lib
+test-output
+target
+.classpath
+.project
